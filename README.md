@@ -50,15 +50,15 @@ I am a Full Stack Developer from Botswana.
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mmusi&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mmusi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- Medium
+-  <a href="https://mmusi-thato.medium.com/">Articles on Medium </a>
 
 <!-- BLOG-POST-LIST:END -->
 
