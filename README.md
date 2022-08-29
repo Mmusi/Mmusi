@@ -22,7 +22,7 @@
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer from Botswana.
-- :telescope: I work as a Full Stack Developer at tech Handy Man and regularly contribute to frontend and backend for building web applications.
+- :telescope: I work as a Full Stack Developer at Tech Handyman and regularly contribute to frontend and backend for building web applications.
 
 - :seedling: I am also involved in Technical Content Writing.
 
